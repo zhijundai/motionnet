@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:/Magnitude/model/2/acc_0.91836447_model.ckpt"
+all_model_checkpoint_paths: "D:/Magnitude/model/2/epochs/epoch_3_model.ckpt"
+all_model_checkpoint_paths: "D:/Magnitude/model/2/epochs/epoch_4_model.ckpt"
+all_model_checkpoint_paths: "D:/Magnitude/model/2/acc_0.913165_model.ckpt"
+all_model_checkpoint_paths: "D:/Magnitude/model/2/epochs/epoch_5_model.ckpt"
+all_model_checkpoint_paths: "D:/Magnitude/model/2/acc_0.91836447_model.ckpt"
