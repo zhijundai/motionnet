@@ -5,12 +5,12 @@
 
 ## Configuration instructions  
 >|Name|Version|
-|:---:|:---:|
-|python|3.7.3|
-|numpy|1.16.4|
-|pandas|0.25.1|
-|tensorflow|1.13.1|
-|scipy|1.2.1|  
+>|:---:|:---:|
+>|python|3.7.3|
+>|numpy|1.16.4|
+>|pandas|0.25.1|
+>|tensorflow|1.13.1|
+>|scipy|1.2.1|  
 
 ## Usage
 > There are four python files in this project. preprocessing.py is the data preprocessing part and provides input for model training. training.py is the model training part. generation.py is the input adjustment part. the small earthquake recordings after adjusting input the model to see if it is judged as a large earthquake. test.py is the test part and integrates the functions of generation.py.
